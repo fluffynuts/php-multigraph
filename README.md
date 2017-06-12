@@ -1,2 +1,4 @@
 # php-multigraph
-GD-based graphing library for php (bar, line, pie, dot charts; import from php classes circa 2008)
+GD-based graphing library for php (bar, line, pie, dot charts)
+
+Created circa 2008, uploaded to PHPClasses.org
